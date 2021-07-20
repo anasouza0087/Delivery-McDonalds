@@ -1,0 +1,10 @@
+.--container-header{
+    background-color: #BD0017;
+    padding: 22px 0 22px 0;
+    position: sticky;
+}
+.--container-header h3{
+    text-align: center;
+    color: #fff;
+    font-size: 1.8rem;
+}

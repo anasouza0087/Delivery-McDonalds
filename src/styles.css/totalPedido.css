@@ -1,0 +1,23 @@
+.--container-total {
+    background-color: #000;
+    color: #FFB71B;
+    width: 45vw;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 6px 0 6px 0;
+    border-radius: 30px;
+}
+
+ul li {
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+.--container-total ul {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    width: fit-content;
+}
